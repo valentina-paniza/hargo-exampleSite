@@ -7,6 +7,7 @@ priceBefore: ''
 shortDescription: Detection of malignant tumors from CT scans
 productID: "1"
 images:
+- image: "/uploads/lung-tumor.jpg"
 - image: "/uploads/lung-xray.jpg"
 
 ---

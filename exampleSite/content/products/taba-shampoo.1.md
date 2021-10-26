@@ -7,6 +7,7 @@ priceBefore: ''
 shortDescription: ''
 productID: "7"
 images:
+- image: "/uploads/idc-detection.jpg"
 - image: "/uploads/breast-cancer.jpg"
 
 ---

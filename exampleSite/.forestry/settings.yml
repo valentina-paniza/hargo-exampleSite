@@ -29,11 +29,6 @@ sections:
   label: Contact
   create: all
   match: "**/*"
-- type: directory
-  path: exampleSite/content/blog
-  label: Blog
-  create: all
-  match: "**/*"
 upload_dir: exampleSite/static/uploads
 public_path: "/uploads"
 front_matter_path: ''

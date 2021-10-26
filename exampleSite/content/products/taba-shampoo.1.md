@@ -4,7 +4,7 @@ date: 2021-10-24T22:00:00+00:00
 description: Breast cancer detection
 price: Request a quote
 priceBefore: ''
-shortDescription: ''
+shortDescription: An AI approach to detect and classify Invasive Ductal Carcinoma
 productID: "7"
 images:
 - image: "/uploads/idc-detection.jpg"

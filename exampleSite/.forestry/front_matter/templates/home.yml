@@ -21,3 +21,5 @@ fields:
       format: markdown
   label: web-site-description
   description: What the page is about
+pages:
+- exampleSite/content/ai-marketplace-solutions.md

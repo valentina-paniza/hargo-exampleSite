@@ -1,35 +1,16 @@
 ---
-title: "Taba Shampoo"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "For Silky Hair"
-
-# product Price
-price: "30.00"
-priceBefore: ""
-
-# Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
-
-#product ID
+title: IDC Detection
+date: 2021-10-24T22:00:00+00:00
+description: Breast cancer detection
+price: Request a quote
+priceBefore: ''
+shortDescription: ''
 productID: "7"
+images: []
 
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
-images:
-  - image: "images/products/product-2.png"
-  - image: "images/products/product-5.png"
-  - image: "images/products/product-3.png"
-  - image: "images/products/product-4.png"
 ---
+Invasive Ductal Carcinoma (IDC) is the most common subtype of all breast cancers. To assign an aggressiveness grade to a whole mount sample, pathologists typically focus on the regions which contain the IDC. As a result, one of the common pre-processing steps for automatic aggressiveness grading is to delineate the exact regions of IDC inside of a whole mount slide.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+The image dataset consists of 400 H&E stain images (2048 × 1536 pixels). All the images are digitized with the same acquisition conditions, with a magnification of 200 × and pixel size of 0.42 µm × 0.42 µm. Each image is labeled with one of the four balanced classes: normal, benign, in situ, and invasive, where class is defined as a predominant cancer type in the image. The image-wise annotation was performed by two medical experts. The goal of the challenge is to provide an automatic classification of each input image.
 
-takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+(TEXTO COPIADO DE REPOS DE GITHUB)
